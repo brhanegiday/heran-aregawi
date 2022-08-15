@@ -62,7 +62,7 @@ function Home() {
         <div className="relative h-[10rem] sm:h-[15rem]  lg:h-[20rem] 2xl:h-[26rem] w-full ">
           <Image
             src="/home/heroMan.png"
-            alt="Brhane Giday Image"
+            alt="Heran Aregawi Image"
             layout="fill"
             objectFit="contain"
             priority

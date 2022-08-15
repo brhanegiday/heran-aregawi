@@ -32,7 +32,7 @@ function Header() {
             <a className="font-semi-bold cursor-pointer" rel="noreferrer">
               <img
                 src="/home/heran-aregawi.svg"
-                alt="Brhane Giday"
+                alt="Heran Aregawi"
                 width="184px"
                 height="26px"
               />

@@ -13,7 +13,7 @@ function Footer() {
               /> */}
             </div>
             <div>
-              <h3 className="text-xs  mb-1">Brhane Giday</h3>
+              <h3 className="text-xs  mb-1">Heran Aregawi</h3>
               <h4 className="text-sm text-gray-700 sm:font-semibold">
                 Full Stack Developer
               </h4>
