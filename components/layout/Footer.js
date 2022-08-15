@@ -5,12 +5,12 @@ function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center px-10 lg:px-20 w-full">
           <div className="flex gap-x-3 items-center">
             <div className="bg-[#6234C8] h-[55px] w-[55px] md:h-[80px] md:w-[80px] rounded-full">
-              <img
+              {/* <img
                 src="/home/brhane-giday.png"
-                alt="Brhane Giday"
+                alt="Heran Aregawi"
                 height="80px"
                 width="80px"
-              />
+              /> */}
             </div>
             <div>
               <h3 className="text-xs  mb-1">Brhane Giday</h3>

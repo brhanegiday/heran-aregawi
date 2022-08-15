@@ -23,8 +23,9 @@ function Home() {
             <div className="w-2 h-2 md:w-3 md:h-3 rounded-full bg-[#6234C8]"></div>
           </div>
           <p className="w-full sm:w-4/5 text-sm py-2 text-gray-700 text-center sm:text-left">
-            Rising Talent Freelancer, specializing in Web with 5+ years of
-            experience in software design, development and deployment.
+            I&apos;m a software developer who creates open-source projects.
+            specializing in Web with 4+ years of experience in software design,
+            development and deployment.
           </p>
           <Link
             to="my-work"
