@@ -14,7 +14,7 @@ function TechStacks() {
           </div>
           <p className="text-gray-700 text-sm pb-4">
             I have maintained, developed and launched multiple projects from
-            scratch, carrying the development of its' back-end and front-end
+            scratch, carrying the development of its back-end and front-end
             codebases.
           </p>
           <div className="flex space-x-1 items-baseline">
@@ -32,7 +32,7 @@ function TechStacks() {
           <div className="flex space-x-1 items-baseline">
             <h3 className="font-semibold text-gray-700">Dynamic-</h3>
             <p className="text-sm text-gray-700">
-              Websites don't have to be static, I love making pages come to
+              Websites don&apos;t have to be static, I love making pages come to
               life.
             </p>
           </div>

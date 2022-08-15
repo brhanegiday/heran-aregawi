@@ -1,5 +1,3 @@
-import React from "react";
-import Image from "next/image";
 function Footer() {
   return (
     <footer className="bg-[#f5f5f5] ">
@@ -27,7 +25,7 @@ function Footer() {
             Made with{" "}
             <a
               href="https://nextjs.org/"
-              rel="noopener"
+              rel="noreferrer"
               target="_blank"
               className="text-[#6234C8]"
             >
@@ -36,7 +34,7 @@ function Footer() {
             &{" "}
             <a
               href="https://tailwindcss.com/"
-              rel="noopener"
+              rel="noreferrer"
               target="_blank"
               className="text-[#6234C8]"
             >
@@ -45,14 +43,14 @@ function Footer() {
           </h3>
           <div className="hidden lg:block">
             <h4 className="text-sm mb-1 text-gray-700 sm:font-semibold">
-              Let's get social
+              Let&apos;s get social
             </h4>
             <p className="text-sm text-gray-700 ">
               Follow me on{" "}
               <span>
                 <a
                   href="https://instagram.com/brhane_giday/"
-                  rel="noopener"
+                  rel="noreferrer"
                   target="_blank"
                   className="text-[#6234C8] sm:font-semibold"
                 >
@@ -63,7 +61,7 @@ function Footer() {
               <span>
                 <a
                   href="https://github.com/brhanegiday/"
-                  rel="noopener"
+                  rel="noreferrer"
                   target="_blank"
                   className="text-[#6234C8] sm:font-semibold"
                 >
@@ -74,7 +72,7 @@ function Footer() {
               <span>
                 <a
                   href="https://linkedin.com/in/brhane-giday/"
-                  rel="noopener"
+                  rel="noreferrer"
                   target="_blank"
                   className="text-[#6234C8] sm:font-semibold"
                 >

@@ -14,7 +14,7 @@ function Home() {
       <div className=" grid grid-cols-1 sm:grid-cols-2 items-center">
         <div className="text-gray-900 py-6 mb-4 md:pb-0 md:mb-0">
           <h1 className="text-md md:text-lg pb-1  text-gray-700 font-semibold text-center sm:text-left ">
-            Hello, it's me
+            Hello, it&apos;s me
           </h1>
           <div className="flex space-x-1 items-baseline justify-center sm:justify-start">
             <h2 className="text-2xl md:text-4xl text-gray-700 font-semibold ">

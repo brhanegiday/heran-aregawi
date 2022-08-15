@@ -28,8 +28,8 @@ function Header() {
               onClick={() => setOpenMenu(true)}
             />
           </div>
-          <NextLink href="/">
-            <a className="font-semi-bold cursor-pointer">
+          <NextLink rel="noreferrer" href="/">
+            <a className="font-semi-bold cursor-pointer" rel="noreferrer">
               <img
                 src="/home/heran-aregawi.svg"
                 alt="Brhane Giday"
@@ -105,16 +105,16 @@ function Header() {
         </ul>
         <div className="flex items-center  space-x-4">
           <a
+            rel="noreferrer"
             href="mailto:brhane5giday@gmail.com"
-            rel="noopener"
             target="_blank"
             className="px-4 py-1 sm:py-[0.2rem] rounded-full bg-[#6234C8] text-sm text-white hidden sm:block"
           >
-            Let's Talk
+            Let&apos;s Talk
           </a>
           <a
+            rel="noreferrer"
             href="https://docs.google.com/document/d/1ZTFbhzxUkX4n8tE2EeZ_zOVkP5cY7_ek89H0Fiu1V6A/edit#"
-            rel="noopener"
             target="_blank"
           >
             <DocumentIcon
