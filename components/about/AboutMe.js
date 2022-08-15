@@ -26,7 +26,7 @@ function AboutMe() {
               className="flex group space-x-1 mt-3 items-center hover:bg-[#6234C8] shadow-md rounded-full hover:translate-x-1 transition transform ease-in-out duration-350 border-b-4 border-t-[1px] border-[#6234C8] py-2 px-5"
             >
               <p className="uppercase text-xs text-gray-700 group-hover:text-white">
-                Let's make something special
+                Let&apos;s make something special
               </p>
             </button>
           </Link>
@@ -40,8 +40,8 @@ function AboutMe() {
           <p className="text-sm text-gray-700 mt-2">
             As a web developer, I enjoy using my obsessive attention to detail,
             my unequivocal love for making things, and my mission-driven work
-            ethic to literally change the world. That's why I’m excited to make
-            a big impact at a high growth company.
+            ethic to literally change the world. That&apos;s why I’m excited to
+            make a big impact at a high growth company.
           </p>
           <p className="text-sm text-gray-700 mt-2">
             Speaking the languages of designers, developers, and users in
@@ -61,7 +61,7 @@ function AboutMe() {
                 className="flex group space-x-1 mt-3 items-center hover:bg-[#6234C8] shadow-md rounded-full hover:translate-x-1 transition transform ease-in-out duration-350 border-b-4 border-t-[1px] border-[#6234C8] py-2 px-5"
               >
                 <p className="uppercase text-xs text-gray-700 group-hover:text-white">
-                  Let's make something special
+                  Let&apos;s make something special
                 </p>
               </button>
             </Link>

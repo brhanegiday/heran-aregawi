@@ -9,7 +9,7 @@ function ContactMe() {
       id="contact"
     >
       <h4 className="text-center text-xs md:text-sm text-[#6234C8] font-bold">
-        WHAT'S NEXT
+        WHAT&apos;S NEXT
       </h4>
       <div className="flex space-x-1 items-baseline justify-center">
         <h3 className="text-center text-xl md:text-3xl  text-gray-700 font-semibold">
